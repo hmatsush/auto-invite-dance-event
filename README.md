@@ -1,1 +1,3 @@
 # auto-invite-dance-event
+
+エンターザステージから関東近郊のバトルイベントをscrapingしてtimetreeにポストする
